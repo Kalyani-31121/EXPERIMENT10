@@ -1,4 +1,3 @@
-kalyani
 a=input("Enter the first Number: ")
 b=input("Enter the second number: ")
 if int(a) > 0:
